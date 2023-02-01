@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "vercel-build": "node app.js"
+    "start": "node src/app.js"
   },
   "author": "",
   "license": "ISC",
